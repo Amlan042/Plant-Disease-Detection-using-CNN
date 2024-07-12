@@ -4,7 +4,7 @@ This project implements a cutting-edge Convolutional Neural Network (CNN) to cla
 
 ## Project Overview
 
-The provided Colab notebook, `[plant_disease_prediction-CNN.ipynb](plant_disease_prediction-CNN.ipynb)`, delves into the development and application of this CNN model. It guides you through the entire process, from data preparation and model training to evaluation and interpretation of results.
+The provided Notebook delves into the development and application of this CNN model. It guides through the entire process, from data preparation and model training to evaluation and interpretation of results.
 
 ## Dependencies
 
@@ -15,9 +15,3 @@ The provided Colab notebook, `[plant_disease_prediction-CNN.ipynb](plant_disease
 * **Matplotlib/Seaborn:** Used for creating informative visualizations of the data and model performance.
 * (Optional) **Scikit-learn:** Offers additional tools for data preprocessing and model evaluation.
 
-**Installation:**
-
-If you haven't already, install these libraries using a package manager like `pip`:
-
-```bash
-pip install tensorflow keras numpy matplotlib seaborn scikit-learn  # (optional)
